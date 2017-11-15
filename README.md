@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+WoodsViewTool::Renderer.copyright 'Andrew Woods', 'All right reserved'
+```
 
 ## Development
 
